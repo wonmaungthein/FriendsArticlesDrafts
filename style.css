@@ -1,0 +1,29 @@
+
+
+h1 {
+     padding-left: 35%;
+     padding-top: 6%;
+     /*border: 3px solid black;*/
+}
+header {
+    /*background-color: orange;*/
+    /*border: solid white 2px;*/
+    height: 20%;
+    width: auto;
+}
+article {
+        /*border: 3px solid blue;*/
+        margin-left: 15rem;
+        margin-right: 15rem;
+        /*margin-top: 5rem;*/
+        margin-bottom: 10rem;
+            /*background-color: yellow;*/
+
+
+}
+
+
+ body {
+    background-image: url("img.jpg");
+    background-size: cover;
+}
